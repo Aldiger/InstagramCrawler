@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crawler", "Crawler.csproj", "{D84F2DC8-3E72-43AD-81E4-AEDE547C6183}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crawler", "InstagramCrawler\Crawler.csproj", "{D84F2DC8-3E72-43AD-81E4-AEDE547C6183}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crawler.Service", "..\Crawler.Service\Crawler.Service.csproj", "{E49F907E-ECDF-41DA-8192-FC0FAA6DDEAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crawler.Service", "..\InstagramCrawler\Crawler.Service\Crawler.Service.csproj", "{E49F907E-ECDF-41DA-8192-FC0FAA6DDEAF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{CCD49A19-FC05-4F2E-9CA8-70F32F13E84C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "..\UnitTest\UnitTest.csproj", "{85FE4816-D8C5-467C-9729-43994DA84729}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "..\InstagramCrawler\UnitTest\UnitTest.csproj", "{85FE4816-D8C5-467C-9729-43994DA84729}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
